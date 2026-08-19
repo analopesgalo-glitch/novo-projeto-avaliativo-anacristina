@@ -1,0 +1,17 @@
+# Manipulacao e Analise de Dados
+pandas
+
+# Conexao e Modelagem de Banco de Dados
+sqlalchemy
+psycopg2-binary
+
+# Variaveis de Ambiente e Seguranca
+python-dotenv
+
+# Ambiente Interativo Jupyter
+jupyter
+ipykernel
+
+# Visualizacao de Dados e Graficos
+matplotlib
+seaborn
